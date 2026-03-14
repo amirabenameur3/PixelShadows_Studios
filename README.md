@@ -29,9 +29,9 @@ A fictional game studio website designed and developed <b>from scratch</b> as a 
 
 ![PixelShadow Studios Preview](docs/PixelShadows_Studios_Preview.png)
 
-```
+
 https://amirabenameur3.github.io/PixelShadows_Studios/
-```
+
 
 ---
 
