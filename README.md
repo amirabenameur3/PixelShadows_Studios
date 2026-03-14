@@ -77,30 +77,40 @@ The project focuses on:
 
 ## Mission Section
 
-![Mission](docs/mission.png)
+<p align="center">
+<img src="./docs/mission.png" width="800">
+</p>
 
 ## Games Section
 
-![Games](docs/games.png)
+<p align="center">
+<img src="./docs/games.png" width="800">
+</p>
 
 ## Team Section
 
-![Team](docs/team.png)
+<p align="center">
+<img src="./docs/team.png" width="800">
+</p>
 
 ## News Section
 
-![News](docs/news.png)
+<p align="center">
+<img src="./docs/news.png" width="800">
+</p>
 
 ## Mobile Layout
 
-![Mobile](docs/mobile.png)
+<p align="center">
+<img src="./docs/mobile.png" width="800">
+</p>
 
 ---
 
 # 📂 Project Structure
 
 ```
-shadowpixel-studios
+shadowpixel_studios
 │
 ├── docs
 │   ├── games.png
