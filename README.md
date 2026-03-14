@@ -186,7 +186,6 @@ GitHub:
 This website represents a **fictional game studio** created for **learning and portfolio purposes**.
 
 It does **not represent a real company or brand**.
-It does **not represent a real company or brand**.
 
 ---
 
