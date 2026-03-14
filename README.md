@@ -136,7 +136,7 @@ PixelShadows_Studios
 │   ├── team
 │   └── videos
 │
-├── favicon.ico
+├── favicon_shadowpixel.ico
 ├── index.html
 └── README.md
 ```
